@@ -1,0 +1,18 @@
+alias gotoP="cd /Volumes/CORSAIR/Coding/Python"
+alias goto="cd /Volumes/CORSAIR"
+alias ls="ls -G"
+alias mongo_setup="sudo mongod --dbpath ~/Downloads/data/db/"
+alias mongo_run="mongo "mongodb+srv://cluster0-4c6z2.mongodb.net/test" --username master_rabbit"
+alias classes="cd Downloads/classes"
+
+alias e="/usr/local/Cellar/emacs/26.3/bin/emacs"
+alias v="/usr/local/Cellar/vim/8.1.2250/bin/vim"
+alias bp='v ~/.bash_profile'
+alias tc='v ~/.tmux.conf'
+alias p="python3"
+alias vba="source venv/bin/activate"
+alias ll="ls -al"
+alias z="v ~/.zshrc"
+alias al="v ~/.aliases"
+alias ipython="python3.6 -m IPython"
+
